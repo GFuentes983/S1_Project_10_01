@@ -29,9 +29,9 @@ video {
   }
 
 /* Track Styles */
-track {
+::cue {
     font: 1.3em sans-serif;
-    background: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 255, 255, 0.8);
     color: rgb(221, 128, 160);
 }
 
