@@ -27,11 +27,12 @@ video {
         margin: 10px; 
     }
   }
-
+/* Changed the video element so its displayed as block with the width taking 90% of the available width. The video when in a certain range of widths will have the video with a width of 360 pixels on the right margin and the margin 10 pixels all around. */
 /* Track Styles */
 ::cue {
     font: 1.3em sans-serif;
     background-color: rgba(255, 255, 255, 0.8);
     color: rgb(221, 128, 160);
 }
+/* A pseudo element to change the font size, family, color and background color of the cue text. */
 
